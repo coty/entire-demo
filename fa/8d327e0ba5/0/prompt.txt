@@ -1,0 +1,21 @@
+create a simple hello world app in python
+
+---
+
+add commit and push
+
+---
+
+can you tell why session logs don't seem to be getting uploaded to entire.io
+
+---
+
+it loosks like something caused the entire/checkpoints/v1 to get pushed just now. did you do that?
+
+---
+
+update this example to accept names for greetings and muiltipel languages: french, english, and russian.
+
+---
+
+commit and push
